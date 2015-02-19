@@ -10,31 +10,6 @@
   display: inline;
 }	
 
-.jumbotron {
-  background-image:url(http://melanomainternational.org/site/wp-content/uploads/2013/12/Doctor_with_Patient_RGB.jpg);
-  height: 500px;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-
-.jumbotron .container {
-  position: relative;
-  top:100px;
-}
-
-.jumbotron h1 {
-  color: #fff;
-  font-size: 48px;  
-  font-family: 'Shift', sans-serif;
-  font-weight: bold;
-}
-
-.jumbotron p {
-  font-family: 'Shift', sans-serif;
-  font-size: 20px;
-  color: #303030;
-}
-
 .learn-more {
   background-color: #f7f7f7;
 }
@@ -59,6 +34,24 @@
 .neighborhood-guides p {
     font-size: 15px;
     margin-bottom: 13px;
+}
+
+.container p {
+    text-align: center;
+    font-family: 'Helvetica';
+    font-size: 18px;
+    padding: 2px;
+}
+.container h1 {
+    font-family: 'Shift', sans-serif;
+    margin-top: 50px;
+    padding: 10px;
+    text-align: center;
+}
+img {
+    position: relative;
+    top: 50%;
+    left: 50%
 }
 
 
