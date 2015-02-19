@@ -8,7 +8,7 @@
 
 .nav li {
   display: inline;
-}
+}	
 
 .learn-more {
   background-color: #f7f7f7;
@@ -35,6 +35,7 @@
     font-size: 15px;
     margin-bottom: 13px;
 }
+
 .container p {
     text-align: center;
     font-family: 'Helvetica';
@@ -52,6 +53,5 @@ img {
     top: 50%;
     left: 50%
 }
-
 
 
