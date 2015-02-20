@@ -45,7 +45,7 @@
 }
 
 .learn-more a {
-  color: #00b0ff;
+  color: #292e2e;
 }
 .neighborhood-guides {
     background-color: #efefef;
@@ -59,3 +59,6 @@
     font-size: 15px;
     margin-bottom: 13px;
 	}
+.jumbotron a {
+color: #292e2e;
+}
