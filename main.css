@@ -10,7 +10,6 @@
   display: inline;
 }
 
-<<<<<<< HEAD
 .jumbotron {
   background-image:url(http://i.huffpost.com/gen/1559207/thumbs/o-HAPPY-COUPLE-facebook.jpg);
   height: 500px;
@@ -22,8 +21,6 @@
   position: relative;
   top:100px;
 }
-=======
->>>>>>> origin/master
 
 .jumbotron h1 {
   color: #fff;
@@ -61,9 +58,4 @@
 .neighborhood-guides p {
     font-size: 15px;
     margin-bottom: 13px;
-<<<<<<< HEAD
-}
-
-=======
-}
->>>>>>> origin/master
+	}
